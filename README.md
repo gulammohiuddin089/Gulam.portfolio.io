@@ -41,7 +41,7 @@ Graduation: May 2020
 **Scalable Solutions:** Contributing to the design and deployment of scalable machine learning pipelines using cloud platforms, ensuring robust and efficient data processing.
 
 ## [Data Science Intern | ExcleR Solutions | Hyderabad, India](https://www.linkedin.com/company/excelrsolutions/posts/?feedView=all)
-### July 2023 - April 2023
+### July 2023 - April 2024
 
 **Comprehensive Training:** Completed an extensive program in statistical analysis, machine learning, deep learning, data visualization, and big data technologies.
 
