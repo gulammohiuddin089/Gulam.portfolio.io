@@ -70,7 +70,11 @@ Graduation: May 2020
   
 ## [Oil-Price-Prediction](https://github.com/gulammohiuddin089/Oil-Price-Prediction-Project)
 #### Sep 2024 - Oct 2024
-#### Tools: Python, Arima, Sarima
+#### Tools: Python, Arima, FB Prophet, Linear regression, LSTM (Long Short-Term Memory)
+
+- Among All the Models Arima Model Gave the accuracy of 90%.
+
+
 
 # Certifications
 
